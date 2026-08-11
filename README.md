@@ -110,4 +110,4 @@ I would also build a stronger communication plan for closing the loop with parti
 
 This repository contains a **selected portfolio sample** based on a larger graduate job analysis project conducted in partnership with Rock City Enterprises. It is intended to demonstrate the methodology, analytical approach, and application of job analysis rather than reproduce the complete organizational deliverable.
 
-[**View the Team Leader Job Analysis Portfolio Sample (PDF)**](team-leader-job-analysis-sample.pdf)
+[**View the Team Leader Job Analysis Portfolio Sample (PDF)**](team-leader-job-analysis-portfolio-sample.pdf)
